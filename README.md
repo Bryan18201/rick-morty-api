@@ -2,7 +2,7 @@
 
 ![portada](/src/img/imagen-portada.png)
 
--------------------------------------------------------------------------
+
 
 ## Imagen de los personajes
 
