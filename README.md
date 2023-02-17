@@ -3,8 +3,11 @@
 # Tecnologías utilizadas:
 
 -ReactJs
+
 -HTML
+
 -CSS
+
 -rickandmorthyapi
 
 # Portada de la web
